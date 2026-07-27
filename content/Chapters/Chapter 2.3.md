@@ -5,8 +5,6 @@ weight: 5
 slug: "chapter-2-3"
 ---
 
-# Chapter 2.3
-
 "Hello, I'm Iris. Current Captain of the Force under Lord Iguma. I would like to speak with you for a moment if you are feeling good enough."
 
 "Hello Captain Iris, I'm Jay. I've heard from Myra that you were the one who rescued me a few nights ago. Thank you very much. I almost saw death itself waving at me from the other side of the River Styx."

@@ -5,8 +5,6 @@ weight: 6
 slug: "chapter-3"
 ---
 
-# Chapter 3
-
 For the next few days, I did not have any more visitors. Myra was the only one tasked with treating me and tending to my wounds. I asked her if it was too much work handling my bandages on her own; she replied it wasn't that much extra work. Apparently, she is the lowest ranked priest in the temple, and an apprentice at that, so all of her seniors tended to dump all the menial chores on her. Temple hierarchy is as brutal as a corporate ladder, it seems.
 
 One day she brought me a small glass vial with some kind of medicine in it. It was pale red and had a slight glow to it. Myra said it was medicine that could help with my condition. I gratefully accepted it and drank the contents of the vial. The next day I was feeling much better physically and the pain subsided a lot.

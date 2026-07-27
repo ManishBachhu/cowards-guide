@@ -5,8 +5,6 @@ weight: 2
 slug: "chapter-1"
 ---
 
-# Chapter 1
-
 I open my eyes.
 
 I'm sprawled out on my back on bare earth, in the middle of a forest, staring up at the night sky. Dark. Scary. Creepy.

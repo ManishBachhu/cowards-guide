@@ -5,8 +5,6 @@ weight: 7
 slug: "chapter-4"
 ---
 
-# Chapter 4
-
 Myra spoke with Eleanor about my situation, and Eleanor graciously permitted me to stay in a room in the temple dormitory for a cheap price. The current room was reserved for active patient care, so by allowing me to crash in a room within the premises, they could still keep an eye on my condition. Renting me a room was a cheap way for Eleanor to satiate her curiosity about my condition by allowing her to observe me for longer. Hey, as long as we both got something out of it, it was a good deal.
 
 Myra said Eleanor felt some regret since she could not heal me at all. So, as an apology, she cut my treatment bill by a lot and asked me to only pay for the care provided by Myra during my hospital/temple stay. The resultant bill was just below one-third of the previous amount. I didn’t know if this amount was low or high by Earth’s standards, but it was obviously a pay cut for Myra. I told Myra I was feeling a little guilty that she lost some money even after caring for me over a week.

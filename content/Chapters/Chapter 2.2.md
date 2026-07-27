@@ -5,8 +5,6 @@ weight: 4
 slug: "chapter-2-2"
 ---
 
-# Chapter 2.2
-
 Myra didn't return until later that evening. This time, she had a couple of others accompanying her.
 
 One was an older lady, presumably Myra's boss, based on how deferential she was acting around her. The other was a young blonde lady wearing armor. She looked sorta familiar for some reason.

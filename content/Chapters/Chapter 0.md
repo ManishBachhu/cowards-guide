@@ -5,8 +5,6 @@ weight: 1
 slug: "chapter-0"
 ---
 
-# Chapter 0
-
 The monitor was the only light in the dim room, illuminating a battle already in progress.
 
 On screen, a warrior with fiery red hair swung a golden sword wreathed in flames. The movements were precise, aggressive—clearly a veteran player. The blade carved through the air toward a flicker of motion at the screen's edge. Fire erupted along its arc, deadly and spectacular.

@@ -5,8 +5,6 @@ weight: 3
 slug: "chapter-2-1"
 ---
 
-# Chapter 2.1
-
 I woke up to an unfamiliar ceiling. _I'm still alive ?!_
 
 Was that a bizarre nightmare? Ooofff, the aches all over my body immediately signal a 'NO'. 
