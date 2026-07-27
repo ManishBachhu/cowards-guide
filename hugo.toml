@@ -1,3 +1,4 @@
 baseURL = 'https://manishbachhu.github.io/cowards-guide/'
 locale = 'en-us'
 title = "Coward's Guide"
+theme = "dark-editor"
