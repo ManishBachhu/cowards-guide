@@ -65,7 +65,7 @@
         title = "Coward's Guide"
 
         # Subtitle for this site, used in homepage only
-        subtitle = "A isekai story, with a twist"
+        subtitle = "An isekai story, with a twist"
 
         # Config about your's site logo, remove this item to hide the logo
         [params.header.logo]
@@ -142,7 +142,7 @@
     # Parameters applied in the homepage only
     [params.homePage]
         # Long Descripition shown in home page "Start Block". Is is recommended to have the paragraph shorter than 100 words.        
-        siteLongDescription = ""
+        siteLongDescription = "Jay didn't choose to be summoned to another world — he just woke up in one, with nothing. Here, a mysterious System grants everyone skills, classes, and magic... except him. Cut off from every advantage this world runs on, Jay has to survive, adapt, and eventually thrive using nothing but wit, patience, and stubborn first-principles thinking. No status screen. No shortcuts. No safety net. The Coward's Guide to Beating the Demon Lord is the story of a hero who has to out-think a world that was never built to include him."
 
         # If you don't like the title of "siteLongDescription" be "Start" (default), 
         # you may change the value of this item to "Description" or something you like.
