@@ -158,6 +158,8 @@
         # It will be more like an editor if it is shown. However, in general, it can be messy if it is displayed.        
         # (Default: true)
         recentPostShowUrl = true
+
+        disableWalkthroughs = true
     
     
     # Paramater applied in the single page
