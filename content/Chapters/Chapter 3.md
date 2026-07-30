@@ -5,13 +5,13 @@ weight: 6
 slug: "chapter-3"
 ---
 
-For the next few days, I did not have any more visitors. Myra was the only one tasked with treating me and tending to my wounds. I asked her if it was too much work handling my bandages on her own; she replied it wasn't that much extra work. Apparently, she is the lowest ranked priest in the temple, and an apprentice at that, so all of her seniors tended to dump all the menial chores on her. Temple hierarchy is as brutal as a corporate ladder, it seems.
+For the next few days, I did not have any more visitors. Myra was the only one tasked with treating me and tending to my wounds. I asked her if it was too much work handling my bandages on her own; she replied it wasn't that much extra work. Apparently, she is the lowest ranked priest in the temple, and an apprentice at that, so all of her seniors tended to dump the menial chores on her. Temple hierarchy is as brutal as a corporate ladder, it seems.
 
 One day she brought me a small glass vial with some kind of medicine in it. It was pale red and had a slight glow to it. Myra said it was medicine that could help with my condition. I gratefully accepted it and drank the contents of the vial. The next day I was feeling much better physically and the pain subsided a lot.
 
 When I thanked Myra for bringing me the medicine and mentioned that it was effective, she said it was fine — she already understood that the potion did not work, so I didn't need to try to make her feel better. Umm, okay?
 
-Whether it was the medicine or it was my body finally making some progress on healing itself, I finally started feeling much better. My appetite increased and it did not hurt anymore while moving around. I was even able to walk around and fetch water myself now. It only seems like a matter of time until I'm back to decently fit again.
+Whether it was the medicine or it was my body finally making some progress on the healing itself, I finally started feeling much better. My appetite increased and it did not hurt anymore while moving around. I was even able to walk around and fetch water myself now. It only seems like a matter of time until I'm back to decently fit again.
 
 As I was basking in the delightful evening sunlight by the window, Myra timidly approached me. It seemed she had something to say to me.
 
@@ -41,9 +41,9 @@ All of my thoughts went to the darkest of conclusions - getting kidnapped and be
 
 I looked up pitifully at Myra and croaked, "Please help me find a job" with tears in my eyes.
 
-She sighed and said that she predicted that this would be the case when I said I had lost my memories. She didn't bring it up before because she didn't want to disturb my mental state during the treatment.
+She sighed and said that she expected that this would be the case when I said I had lost my memories. She didn't bring it up before because she didn't want to create further anxiety state while the treatment was still in-progress.
 
-Myra said she'd speak with Eleanor to check if there were any jobs I could do at the temple. Outsiders are usually not considered for work at the temple, but maybe they could at least find something temporary. That naturally led to the question of what my skills were, what kind of jobs I could handle.
+Myra said she'd speak with Eleanor to check if there were any jobs I could do at the temple. Outsiders were usually not considered for work at the temple, but maybe they could at least find something temporary. That naturally led to the question of what my skills were, what kind of jobs I could handle.
 
 "Do you remember what skills you had? This would have been easy to figure out if your status screen opened, but we have had no luck with that so far."
 

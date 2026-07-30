@@ -11,9 +11,9 @@ Myra said Eleanor felt some regret since she could not heal me at all. So, as an
 
 She said it was actually a fair price since they weren’t able to use any skill for my treatment. Apparently, people considered any work that didn’t involve the use of mana as grunt work and paid pennies for it. Now I was feeling sorry for myself. I probably have no mana, right? Is anyone in this world gonna pay me for my work?
 
-Today we moved into the dorm room after a week of treatment. I’m surprised myself that I got better so quickly. The room itself was pretty bare-bones... A window, a straw mattress, a jug of water and a box to keep my stuff. That was all there was to it. Pretty big downgrade even from my bachelor lifestyle on Earth, but hey, even having a roof over my head is a blessing at this point.
+Today I moved into the dorm room after a week of treatment. I’m surprised myself that I got better so quickly. The room itself was pretty bare-bones... A window, a straw mattress, a jug of water and a box to keep my stuff. That was all there was to it. Pretty big downgrade even from my bachelor lifestyle on Earth, but hey, even having a roof over my head is a blessing at this point.
 
-Eleanor found a spot for me with the temple’s kitchen staff. They currently had a lot of work because of some upcoming event, so they told me I could help if I pitched in. It’s a temp job, but it’s a start at least.
+Eleanor found a spot for me with the temple’s kitchen staff. They currently had a lot of work because of some upcoming event, so they told me I could help if I pitched in. It’s just a temp job, but it’s a start at least.
 
 Myra showed me the way to the kitchen, where I met the head chef. Even for a temp gig, it was important to register myself under his command.
 
@@ -67,7 +67,7 @@ Miraculously, the potato shook violently as if it were being cut and broke apart
 
 “Yes, chef.” Johnny quickly collected his pieces into a bowl and ran back to his place.
 
-“So, what do you think? You can do it?”
+“So, what do you think? Can you do it?”
 
 I was speechless. What in the bizarre world was that? He played a mini-game in real life and swung his knife wildly in the air, and that chopped the potato??!
 
@@ -77,7 +77,7 @@ What the heck?!
 
 “Yes, of course. Wanna see how good I am at it?” Gustavo didn’t even wait for a reply. He grabbed a few veggies and dumped them crudely on the board. They were all different shapes, but that apparently didn’t matter — he immediately activated the skill.
 
-The same mini-game popped again, but for more objects this time. Gustavo nonchalantly pressed start game. He was far more fluid in moving the virtual knife around and had a quick, rhythmic tapping. He easily cleared the game before the time ran out.
+The same mini-game popped again, but with far more objects this time. Gustavo nonchalantly pressed start game. He was far more fluid in moving the virtual knife around and had quick, rhythmic tapping. He easily cleared the game before the time ran out.
 
 Once the screen disappeared, he picked up the knife and took a big swipe over all the vegetables. Immediately, all of them crumbled into small, evenly sized pieces.
 
