@@ -1,56 +1,48 @@
 ---
-title: "Chapter 5.1"
-date: 2026-07-27
-weight: 8
-slug: "chapter-5-1"
+title: Chapter 5.1
+date: 2026-10-31
+weight: 9
+slug: chapter-5-1
 ---
 
-After not hearing anything for two days, I went myself to the kitchen to speak with Gustavo. I am pretty desperate for a job, so at least need to know why I was being ghosted.
+Sacked in a half day, must be some kind of a record. Back to being jobless and desperate, the default state for most undergrad seniors. It's not the fact that I'm out of a job that worries me. It's this world, I can't wrap my head around it. I haven't lived all that long, but everything that happened in the last week easily tops the most bizarre things I've ever seen. Except, the great Emu War, you should totally check that out.
 
-As expected, Gustavo was pretty busy directing the staff, but he pulled a grimace when our eyes met. The heck happened in this short while for him to get annoyed just looking at my face? I cooked alright, no?
+Staying put inside my room was driving me crazy. So I started wandering inside the temple. It's a pretty big complex and is roughly divided into four parts. I got a pretty good understanding of the layout while being stuck here. The rear part of the temple houses the unglamorous parts — the rooms and offices for the regular staff and priests. The higher up your position, the more luxurious your room and treatment. Priests are pretty high up on the food chain. So they're all a pretty cocky bunch in general. Myra is also a priest, right? Maybe I've been too casual with her.
 
-“Hey Gustavo, I came to talk about the spot on the staff. I was waiting to hear back from you, but you never called me."
+The back offices are off limits for non temple related people. So it's generally a quiet place. However, all of this quietness was making me feel like a puppy locked out of the house. So I walked around to the front entrance. This area is always buzzing with activity during the day. So I went out to find something interesting. This entrance leads into the main prayer hall.
 
-“Ummm, yeah. I was busy. So....”
+People gather here to listen to sermons from priests or celebrate festivals. Though none happened in my short stay here. One such sermon was currently being given by the high bishop Eleanor, so I sat down for a bit.
 
-He was being evasive with his answer. It looked like he wanted me to read the room and leave quietly without making a fuss. But nah, I refuse. I’ll be as dense as I need to be to get my answer.
+She was currently preaching about the one true goddess of this world, Celestia. She is the creator of this world, and everything we have is thanks to her blessings. Standard religious stuff. Where it differs is that there are actual monsters inhabiting this world. Apparently, they are considered a great evil and are intent on destroying everything in this world. People pray to Celestia to help them, and she blesses them with enough power to ward off this evil and keep it in check. Thus, it is only thanks to her magnanimous heart that we are still alive and have the power to fight for ourselves.
 
-This is a new world, I need to know what’s going on. Otherwise, I will definitely lead a hard life which will end up with my kidneys being sold. Luckily, I’ve dealt far ruder and hard-ass recruiters after internships back on Earth. So I’m pretty equipped at being annoying in return to get my answer.
+Well, it was pretty much the same story I've heard since I landed in this temple. So I got up and made my way to the left wing of this complex — the same area where I've spent the majority of my time since I first came to this world.
 
-I just stood there and waited in silence while Gustavo ran around the room barking orders, clearly looking to avoid a tough conversation. My persistence must have worn him down, cause he finally came to speak with me.
+This area was pretty much a hospital, except replace the medical instruments and scientific jargon with mystical blessings and devotional prayers. People consider this place as one where miracles are performed on a daily basis. Not me, though. It comes off as more unnerving than not.
 
-“Jay, I’m sorry, but you aren’t a good fit here.”
+I mean, look at that person sitting over there. He seems to have badly injured his hand based on the hastily done bandaging. Looks like he's in severe pain because he's clutching his arm pretty dang hard. Anyway, you look at it, it should take at least one month for his arm to heal even with top tier meds. But that's not the case here. Look. This flashy priest approaches him and starts examining the damage. Why even perform such a pointless checkup? The resultant procedure is gonna be the exact same anyways.
 
-“But why? Was my cooking not good enough? Or was I too slow? I can try to work on it. You even praised my food, right? Give me another chance, please!”
+The priest places one hand over the injured part and crosses the other arm over his heart. Then he closes his eyes and starts praying. The injured area is starting to glow, and we will soon witness all of those nasty injuries disappearing right before our eyes. What a miracle, what a miracle. If only it worked on a normal human being like me as well, it wouldn't have been creepy at all.
 
-“It would have been simpler if that were the case,” he said, rubbing his temples. “I’ll be upfront here - I got yelled at by some of our customers when we served them your food.”
+As I was looking around, my family doctor spotted me and beckoned me over. She was treating a patient with a small cut. As always, Myra was stuck dealing with the scrub cases. She said she didn't mind it because she is still getting to help people out, and it was good practice. It was clear though, that they were completely looking down on her.
 
-“Yelled at? Were my dishes that awful in taste?”
+Do you guys have a family doctor as well? Someone who you visit for all sorts of minor issues and take medical advice from? Back at home, we had one who was local to the neighborhood. So he became sorta the de facto family doctor for all of us. I always thought of him as a quack because whenever I got injured as a kid, after treating me, he used to give me a chocolate. Giving small children chocolates! Can you believe the hypocrisy? Then again, I stopped resisting going to the doctors even if the injections hurt because I could get a free sweet at the end of the day. Wait. So he was actually a good guy all along? Well, I can't comment too much about his medical skills. But he sure knew how to retain his core clientele. What a crafty cookie.
 
-“If they were, I wouldn’t have served them in the first place. It turned out alright and looked safe to serve.”
+I approached Myra for my regular checkup after the previous patient left. She hasn't been my doctor for years the way my old family doc was, but given how often she's checked on me these last few days — and the fact that I literally have no one else to rely on — I'll award her the honorary title anyway.
 
-“Then what was the issue?”
+"Good morning, respected doctor. How are you doing on this fine day?"
 
-“They complained that it didn’t restore any of their stamina.”
+Myra shot me a quizzical look, "It's been a normal day so far. How has your health been? Anything new to report?"
 
-“What? .....”
+"Nothing to report, your esteemed. The care you have been so graciously providing has ensured that nary an issue has been spotted."
 
-“Yeah, it honestly caught me off-guard as well. I didn’t expect it to be excellent, but we did use a lot of good stamina restoring ingredients. So it is puzzling why none of their stamina restored at all!”
+"I see. I shall put down renewed head trauma causing irregular speech patterns then."
 
-Yeah.... I’m not following him at all.
+"Ouch. That hurts. I was just trying to be respectful."
 
-“What do you mean exactly by restoring their stamina? What failed?”
+"You were teasing me. That wasn't very nice." She told me off with cutely puffed cheeks. Perhaps I did go too far.
 
-“Huh? They ate the food and expected their stamina to be replenished, but it didn’t.”
+"My bad. I'll try not to do that again. Sorry."
 
-That.... wasn’t an explanation, buddy. You just repeated it in different words. Gustavo interpreted my confusion in another way, though.
+"If you have nothing much to do, why not head over to the blessing hall? It seems they are short staffed there. They could use your assistance."
 
-Yeah, I was puzzled too. You used my ingredients and my recipe, so the result was unexpected. All I could think of was your weird cooking style or your illness. You can’t fix either of them, right?”
-
-I just nodded. I mean, what else could I do?
-
-“Yeah, so that’s why I didn’t call you back. Sorry Jay, I don’t think you can help us out here. Maybe come back once you’ve gotten better, and we can try wrapping you in after that.”
-
-He patted my shoulder in consolation, and then literally pushed me out of the kitchen.
-
-Excuse me? Could someone please explain what just happened? How is it that I did everything correctly and still got sacked? This world is BS bro......
+Saying so, she pushed me out of the room. I wanted to chat with her for a bit longer, but looks like she's busy. Oh, well. I'll come back later to poke her again.

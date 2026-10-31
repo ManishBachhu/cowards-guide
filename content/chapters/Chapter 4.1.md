@@ -1,8 +1,8 @@
 ---
-title: "Chapter 4"
+title: "Chapter 4.1"
 date: 2026-07-27
 weight: 7
-slug: "chapter-4"
+slug: "chapter-4-1"
 ---
 
 Myra spoke with Eleanor about my situation, and Eleanor graciously permitted me to stay in a room in the temple dormitory for a cheap price. The current room was reserved for active patient care, so by allowing me to crash in a room within the premises, they could still keep an eye on my condition. Renting me a room was a cheap way for Eleanor to satiate her curiosity about my condition by allowing her to observe me for longer. Hey, as long as we both got something out of it, it was a good deal.
