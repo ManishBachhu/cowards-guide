@@ -1,6 +1,6 @@
 ---
 title: Chapter 5.1
-date: 2026-10-31
+date: 2026-10-30
 weight: 9
 slug: chapter-5-1
 ---

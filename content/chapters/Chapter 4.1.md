@@ -1,6 +1,6 @@
 ---
 title: "Chapter 4.1"
-date: 2026-07-27
+date: 2026-07-28
 weight: 7
 slug: "chapter-4-1"
 ---

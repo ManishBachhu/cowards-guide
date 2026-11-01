@@ -37,7 +37,7 @@
                                 {{ i18n "recent_posts" | title }}
                             </h3>
                             <ul class="recent-posts-list">
-                                {{ range ( $.Site.RegularPages | first ($.Site.Params.homePage.numOfRecentPosts | default 5) ) }}
+                                {{ range ( $.Site.RegularPages.ByDate.Reverse | first ($.Site.Params.homePage.numOfRecentPosts | default 5) ) }}
                                     {{ $page := . }}
                                     <li>
                                         <a

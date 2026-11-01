@@ -1,6 +1,6 @@
 ---
 title: Chapter 4.2
-date: 2026-07-27
+date: 2026-07-29
 weight: 8
 slug: chapter-4-2
 ---
