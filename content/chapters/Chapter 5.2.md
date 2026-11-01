@@ -54,3 +54,22 @@ He gave me a disapproving sneer. “Even if you forget to tap by mistake, it wil
 I took my spot and called the first person in the queue forward. I tapped the bell, let them select their blessings, accepted the cash, and handed over the change and tokens. Smooth, if I say so myself. I’d manned far harder stalls during college fests, so this was a breeze.
 
 After watching me for a bit, the priest seemed to finally trust me, because he left without another word. What had started as a leisurely day had turned into a grunt desk job. Secretly, though, I was happy to see a game-like screen again. It felt like being back home, playing games from my couch. A safe space where I could chill without restraint, something I sorely lacked right now.
+
+--------
+Working at the desk itself was drab, but I learned a lot of trivia about the gods. While Celestia was the one true goddess, she didn’t tend to every little task by herself. She bequeathed some of her powers to seven subordinate gods who managed the day-to-day activities of this world on her behalf.
+
+Obtaining blessings from these gods would apparently help you at your job. For example, a lot of knights were seeking the blessings of Ignareth, the god of fire, as it made you physically stronger. Merchants seemed to prefer Aquaresia, the goddess of water. If you were granted her blessings, then apparently money would move through your business like the streams of a great river. As a business student myself, I would have sent my prayers to her before my exams. Or maybe it should be to Fulgarian, the god of lightning, as education comes under his purview.
+
+Overwhelmed already? I didn’t even touch upon the other elements like earth, wind, light, and darkness. It’s a mess regarding who governs what. Whenever someone tried to ask me which god they should pray to, I deftly avoided the question by telling them to seek answers from a priest. Poor folks. They probably ended up asking me because there weren’t many priests around in the first place. On top of that, they were being charged a good amount for the blessings themselves. Oh yes, not charged, but recommended to donate. Because the temple wasn’t an evil capitalistic megacorp that promises grand things and extorts a premium from you for services that have questionable benefits to your life. Yes, I cannot see any similarities between them and this benevolent institution.
+
+A bell rang through the temple, signaling the closing of the gates, which sent the last few visitors scurrying away, lest they be locked inside with us. I was stretching out my stiff muscles, sore from sitting all day, when the priest from before came by again.
+
+“How many people have come by today?” he asked.
+
+“I was busy non-stop the whole day, so I’d say the turnout was good. Though I can’t say how it compares to a typical day, since this is my first time here,” I replied, and handed over a bag containing the day’s collection. His face broke into a slight smirk as he felt the pleasant weight of the coins in his hands. It lasted only a moment before he went right back to scowling at me.
+
+“What are you looking at my face for? Hand over the bell as well.”
+
+“Yes, sir.”
+
+He snatched the bell from my hands and walked away, grumbling about how useless everyone around him was. Jeez, take a chill pill, dude. You don’t need to have a stick up your ass after I put in a good day’s work for free. It seems I’ll need to start charging them for my services if I want to earn some respect. Unfortunately for me, my bad luck shows no sign of ending.
