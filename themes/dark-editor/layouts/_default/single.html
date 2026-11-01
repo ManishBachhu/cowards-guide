@@ -125,5 +125,40 @@
                 </p>
             {{ end }}
         </div>
+
+        {{ if eq .Section "chapters" }}
+            {{ $current := . }}
+            {{ $pages := .CurrentSection.RegularPages.ByWeight }}
+            {{ $previous := false }}
+            {{ $next := false }}
+            {{ range $index, $page := $pages }}
+                {{ if eq $page.File.UniqueID $current.File.UniqueID }}
+                    {{ if gt $index 0 }}
+                        {{ $previous = index $pages (sub $index 1) }}
+                    {{ end }}
+                    {{ if lt (add $index 1) (len $pages) }}
+                        {{ $next = index $pages (add $index 1) }}
+                    {{ end }}
+                {{ end }}
+            {{ end }}
+            <nav class="chapter-navigation" aria-label="Chapter navigation">
+                <div class="chapter-navigation-previous">
+                    {{ with $previous }}
+                        <a href="{{ .RelPermalink }}">
+                            <span>Previous chapter</span>
+                            <strong>{{ .Title }}</strong>
+                        </a>
+                    {{ end }}
+                </div>
+                <div class="chapter-navigation-next">
+                    {{ with $next }}
+                        <a href="{{ .RelPermalink }}">
+                            <span>Next chapter</span>
+                            <strong>{{ .Title }}</strong>
+                        </a>
+                    {{ end }}
+                </div>
+            </nav>
+        {{ end }}
     </article>
 {{ end }}

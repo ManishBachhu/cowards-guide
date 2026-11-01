@@ -156,6 +156,40 @@ article.main > div.article-meta > div:where(.breadcumb, .translation) > a {
     line-height: 2.5em;
 }
 
+article.main > nav.chapter-navigation {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-top: 2rem;
+    padding-top: 1rem;
+    border-top: 1px solid #5c5e60;
+}
+
+article.main > nav.chapter-navigation > div {
+    flex: 1;
+}
+
+article.main > nav.chapter-navigation > div.chapter-navigation-next {
+    text-align: right;
+}
+
+article.main > nav.chapter-navigation a {
+    display: inline-flex;
+    flex-direction: column;
+    gap: 0.25rem;
+    color: #99a1ff;
+    text-decoration: none;
+}
+
+article.main > nav.chapter-navigation a:hover {
+    color: #ffffff;
+}
+
+article.main > nav.chapter-navigation span {
+    color: #939bab;
+    font-size: 0.85rem;
+}
+
 /* first of a will contain the current present language */
 article.main > div.article-meta > div.translation > a:first-of-type {
     color: #c6c6c7;
