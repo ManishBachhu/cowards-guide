@@ -135,6 +135,45 @@ article.main > div.home > div.recommend > div.left > div.start {
     margin-bottom: 16pt;
 }
 
+article.main > div.home > div.recommend > div.left > div.continue-reading {
+    margin-bottom: 16pt;
+    padding: 12pt;
+    border-left: 3px solid #80cbc4;
+    background-color: #282c34;
+}
+
+article.main
+    > div.home
+    > div.recommend
+    > div.left
+    > div.continue-reading
+    > a {
+    display: inline-flex;
+    flex-direction: column;
+    gap: 0.25em;
+    color: #80cbc4;
+    text-decoration: none;
+}
+
+article.main
+    > div.home
+    > div.recommend
+    > div.left
+    > div.continue-reading
+    > a:hover {
+    color: #eeffff;
+}
+
+article.main
+    > div.home
+    > div.recommend
+    > div.left
+    > div.continue-reading
+    > a
+    > span {
+    font-size: 0.85em;
+}
+
 article.main
     > div.home
     > div.recommend
