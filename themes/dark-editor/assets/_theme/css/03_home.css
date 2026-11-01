@@ -135,7 +135,11 @@ article.main > div.home > div.recommend > div.left > div.start {
     margin-bottom: 16pt;
 }
 
-article.main > div.home > div.recommend > div.left > div.continue-reading {
+article.main
+    > div.home
+    > div.recommend
+    > div.left
+    > div:where(.start-reading, .continue-reading) {
     margin-bottom: 16pt;
     padding: 12pt;
     border-left: 3px solid #80cbc4;
@@ -146,20 +150,37 @@ article.main
     > div.home
     > div.recommend
     > div.left
-    > div.continue-reading
-    > a {
-    display: inline-flex;
-    flex-direction: column;
-    gap: 0.25em;
-    color: #80cbc4;
-    text-decoration: none;
+    > div:where(.start-reading, .continue-reading) {
+    padding-top: 4pt;
 }
 
 article.main
     > div.home
     > div.recommend
     > div.left
-    > div.continue-reading
+    > h3.recommend-title {
+    margin-top: 0;
+}
+
+article.main
+    > div.home
+    > div.recommend
+    > div.left
+    > div:where(.start-reading, .continue-reading)
+    > a {
+    display: inline-flex;
+    flex-direction: column;
+    gap: 0.25em;
+    color: #80cbc4;
+    text-decoration: none;
+    margin-top: 0;
+}
+
+article.main
+    > div.home
+    > div.recommend
+    > div.left
+    > div:where(.start-reading, .continue-reading)
     > a:hover {
     color: #eeffff;
 }
@@ -168,7 +189,7 @@ article.main
     > div.home
     > div.recommend
     > div.left
-    > div.continue-reading
+    > div:where(.start-reading, .continue-reading)
     > a
     > span {
     font-size: 0.85em;
