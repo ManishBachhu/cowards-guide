@@ -56,13 +56,39 @@ I took my spot and called the first person in the queue forward. I tapped the be
 After watching me for a bit, the priest seemed to finally trust me, because he left without another word. What had started as a leisurely day had turned into a grunt desk job. Secretly, though, I was happy to see a game-like screen again. It felt like being back home, playing games from my couch. A safe space where I could chill without restraint, something I sorely lacked right now.
 
 --------
-Working at the desk itself was drab, but I learned a lot of trivia about the gods. While Celestia was the one true goddess, she didn’t tend to every little task by herself. She bequeathed some of her powers to seven subordinate gods who managed the day-to-day activities of this world on her behalf.
+Working the desk was drab, but it came with a crash course in divine trivia. People came to the counter for one reason: blessings were supposed to help you with your job.
 
-Obtaining blessings from these gods would apparently help you at your job. For example, a lot of knights were seeking the blessings of Ignareth, the god of fire, as it made you physically stronger. Merchants seemed to prefer Aquaresia, the goddess of water. If you were granted her blessings, then apparently money would move through your business like the streams of a great river. As a business student myself, I would have sent my prayers to her before my exams. Or maybe it should be to Fulgarian, the god of lightning, as education comes under his purview.
+“Could I please get a blessing from Terrowin, the god of earth, to look after my crops again this season?” asked a man clearly dressed as a farmer.
 
-Overwhelmed already? I didn’t even touch upon the other elements like earth, wind, light, and darkness. It’s a mess regarding who governs what. Whenever someone tried to ask me which god they should pray to, I deftly avoided the question by telling them to seek answers from a priest. Poor folks. They probably ended up asking me because there weren’t many priests around in the first place. On top of that, they were being charged a good amount for the blessings themselves. Oh yes, not charged, but recommended to donate. Because the temple wasn’t an evil capitalistic megacorp that promises grand things and extorts a premium from you for services that have questionable benefits to your life. Yes, I cannot see any similarities between them and this benevolent institution.
+Easy right? Knights were just as simple, lining up for Ignareth, the god of fire, because it made them physically stronger.
 
-A bell rang through the temple, signaling the closing of the gates, which sent the last few visitors scurrying away, lest they be locked inside with us. I was stretching out my stiff muscles, sore from sitting all day, when the priest from before came by again.
+Then there were the cases that only half made sense.
+
+I have a business deal tomorrow,” a merchant told me, practically vibrating with energy. “Give me Aquaresia’s blessing. They say it brings money into your business like a great river.”
+
+Water flows from place to place, whereas money flows person to person? I could somewhat follow that logic, which was more than I could say for the next customer.
+
+"I have an exam this afternoon. Gimme the blessing from the god of lightning, Fulgarion. My teacher said that he is the god of education."
+
+_God of Lightning or God of Education, which is it?_
+
+"Sure," I said. "Hope you get lucky and all the questions are easy."
+
+"Luck! You're right. I should pray for some luck too, so that I don't encounter any trick questions."
+
+"Right. Luck is probably Luxandra’s department, the goddess of light. Unless trick questions count as a hidden danger, in which case maybe Nyxara, the goddess of darkness?
+
+"Which is it? Who should I pray to?!"
+
+"No clue. You’d have to ask a priest"
+
+Easier said than done though. All priests were stuck mid-ritual with queues of their own, which was exactly why I was out here in the first place.
+
+"Urgghhh. Just give me all of them" he groaned.
+
+He ended up getting charged thrice the amount he was planning to pay. Not charged, but recommended to donate. Because the temple wasn’t an evil capitalistic megacorp that promises grand things and extorts a premium from you for services that have questionable benefits to your life. Yes, I cannot see any similarities between them.
+
+As evening fell, a bell rang through the temple, signaling the closing of the gates. It sent the last few visitors scurrying away, lest they be locked inside with us. I was stretching out my stiff muscles, sore from sitting all day, when the priest from before came by again.
 
 “How many people have come by today?” he asked.
 
